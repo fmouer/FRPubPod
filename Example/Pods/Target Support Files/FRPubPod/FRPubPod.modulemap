@@ -1,0 +1,6 @@
+framework module FRPubPod {
+  umbrella header "FRPubPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

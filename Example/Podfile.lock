@@ -1,0 +1,16 @@
+PODS:
+  - FRPubPod (0.1.0)
+
+DEPENDENCIES:
+  - FRPubPod (from `../`)
+
+EXTERNAL SOURCES:
+  FRPubPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FRPubPod: 7f27bfde51b7b267cabdf73af43167f11a194bf4
+
+PODFILE CHECKSUM: a400d8c38e899b36df0a089c344ec54f52c3a9d8
+
+COCOAPODS: 1.5.3

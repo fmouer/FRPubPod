@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'FRPubPod_Example' do
+  pod 'FRPubPod', :path => '../'
+
+  target 'FRPubPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
